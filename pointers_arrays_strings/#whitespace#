@@ -1,0 +1,19 @@
+
+2-strlen.c:5: ERROR: trailing whitespace
+
+2-strlen.c:10: WARNING: please, no spaces at the start of a line
+
+2-strlen.c:10: WARNING: space prohibited between function name and open pare
+
+nthesis '('
+
+2-strlen.c:12: ERROR: trailing whitespace
+
+2-strlen.c:12: WARNING: please, no spaces at the start of a line
+
+total: 3 errors, 3 warnings, 12 lines checked
+
+2-strlen.c:8: warning: No description found for return value of '_strlen'
+
+_strlen
+0;276;0c
