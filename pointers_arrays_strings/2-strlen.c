@@ -1,19 +1,20 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
- *_strlen -length of a string
- *@s: A pointer to an int that will be changed/updated
+ *main - chek the code 
  *
- *Return: void that means ourn answer is correct
+ *Return : Always 0
+ *
  */
 
-int _strlen(char *s)
+
+int main (void)
 {
-int u;
+  char *str;
+  int len;
+  str = "My first strlen!";
+  len = _strlen (str);
+  printf("%d\n" , len );
+  return (0);
 
-u = 0;
-while (s[u] != '\0')
-
-u++;
-retur (u);
 }
