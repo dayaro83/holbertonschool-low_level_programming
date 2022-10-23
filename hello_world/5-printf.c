@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
-*main -Entry point
+*main -print a c program using printf
 *
-*Retur: Always 0 (Success)
+*Return:0
 */
-int main (void)
+int main(void)
 {
-  printf ("whith proper gramar, but the outcome is a piece of art,\n");
-  retur (0)
+printf("whith proper gramar, but the outcome is a piece of art,\n");
+retur(0);
 }
