@@ -1,24 +1,20 @@
 #include "main.h"
 /**
-*print_alphabet - una función que imprime el alfabeto, en minúsculas
-*
-* Retorno: Siempre 0 (Éxito)
+*main - printer putchar
+*Return: 0 always
 */
-vacío  imprimir_alfabeto ( vacío )
-  {
-  
-  int n;
-  
-
-  
-  para (n = ' a ' ; n <= ' z ' ; n++)
+int main(void)
+{
+_putchar('_')
+_putchar('p')
+_putchar('u')
+_putchar('t')
+_putchar('c')
+_putchar('h')
+_putchar('a')
+_putchar('_')
+_putchar('_')
     
-    {
-      
-      _putchar (n);
-      
-    }
-  
-  _putchar ( ' \n ' );
-  
-}
+ 
+    
+        
