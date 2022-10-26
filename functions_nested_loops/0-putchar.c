@@ -1,11 +1,13 @@
 #include "main.h"
 /**
-* main - printer putchar
-* Return: always 0
+* main - print _putchar
+*is written by bwave
+*Return: 0
 */
+
 int main(void)
 {
-_putchar('-');
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
